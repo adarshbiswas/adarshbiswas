@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Adarsh Biswas</h1>
-<h3 align="center">A passionate Software developer from India 🔱</h3>
+<h3 align="center">A passionate developer from India 🔱</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshbiswas" alt="adarshbiswas" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development projects**
+- 🔭 Currently working on **Android Development projects**
 
-- 🌱 I’m currently learning **Spring, SpringBoot and AngularJS**
+- 🌱 Currently learning **Spring, SpringBoot and AngularJS**
 
-- 👯 I’m looking to collaborate on **Open source projects/contribution**
+- 👯 Looking to collaborate on **Open source projects/contribution**
 
-- 👨‍💻 All of my projects are available at [https://adarshxportfolio.vercel.app/](https://adarshxportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available @ [https://adarshxportfolio.vercel.app/](https://adarshxportfolio.vercel.app/)
 
-- 📫 How to reach me **adarshbiswas.dev@gmail.com**
+- 📫 How to reach me -> **adarshbiswas.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/geekxdxrsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/geekxdxrsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adarshbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshbiswas" height="30" width="40" /></a>
+<a href="https://discord.gg/adxsh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adxsh.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
