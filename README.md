@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshbiswas" alt="adarshbiswas" /></a> </p>
 
-- 🔭 Currently working on **Android Development projects**
-
-- 🌱 Currently learning **Spring, SpringBoot and AngularJS**
+- 🔭 Currently working as a **Java full-stack && Devops Engineer**
 
 - 👯 Looking to collaborate on **Open source projects/contribution**
 
